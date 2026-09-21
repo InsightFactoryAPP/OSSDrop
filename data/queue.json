@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "name": "YYLO",
+    "repo": "yylo-dev/yylo",
+    "homepage": "https://github.com/yylo-dev/yylo",
+    "category": "ai-coding-agents",
+    "description": "Command-line orchestrator for coding agents, with typed task, validation, merge, and release-readiness boundaries across agent worktrees.",
+    "license": "MIT",
+    "publishOn": "2026-09-22"
+  },
+  {
+    "name": "Open Download Manager",
+    "repo": "albilu/open-download-manager",
+    "homepage": "https://github.com/albilu/open-download-manager",
+    "category": "files-sync",
+    "description": "Native GTK4 download manager for Linux with one queue for HTTP/FTP, BitTorrent, video and site mirrors via aria2, yt-dlp and HTTrack.",
+    "license": "GPL-3.0",
+    "publishOn": "2026-09-22"
+  },
+  {
+    "name": "Jev Social",
+    "repo": "socai-io/jev-social",
+    "homepage": "https://socai-io.github.io/jev-social/",
+    "category": "ai-coding-agents",
+    "description": "Local-first AI agent that routes social research through socai to capture browser evidence and stream a cited report.",
+    "license": "MIT",
+    "links": [
+      {
+        "label": "docs",
+        "url": "https://github.com/socai-io/jev-social#run-it"
+      }
+    ],
+    "publishOn": "2026-09-22"
+  },
+  {
+    "name": "Client Close Kit",
+    "repo": "darweesh128-cmd/client-close-kit",
+    "homepage": "https://darweesh128-cmd.github.io/client-close-kit/",
+    "category": "finance-business",
+    "description": "Free MIT browser freelance docs: invoices, quotes, credit notes, certificates of completion, and more. No signup.",
+    "license": "MIT",
+    "publishOn": "2026-09-22"
+  }
+]
