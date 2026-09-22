@@ -41,7 +41,7 @@ Browse by category below, explore the same tools ranked at
 
 <sub>The heaviest hitters on the list — recomputed nightly.</sub>
 
-<div align="center"><a href="https://github.com/facebook/react"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/facebook-react-dark.svg"><img src="assets/cards/facebook-react-light.svg" width="265" alt="React"></picture></a>&nbsp;<a href="https://github.com/tensorflow/tensorflow"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/tensorflow-tensorflow-dark.svg"><img src="assets/cards/tensorflow-tensorflow-light.svg" width="265" alt="TensorFlow"></picture></a>&nbsp;<a href="https://github.com/microsoft/vscode"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/microsoft-vscode-dark.svg"><img src="assets/cards/microsoft-vscode-light.svg" width="265" alt="VS Code"></picture></a></div>
+<div align="center"><a href="https://github.com/facebook/react"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/facebook-react-dark.svg"><img src="assets/cards/facebook-react-light.svg" width="265" alt="React"></picture></a>&nbsp;<a href="https://github.com/tensorflow/tensorflow"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/tensorflow-tensorflow-dark.svg"><img src="assets/cards/tensorflow-tensorflow-light.svg" width="265" alt="TensorFlow"></picture></a>&nbsp;<a href="https://github.com/yt-dlp/yt-dlp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/yt-dlp-yt-dlp-dark.svg"><img src="assets/cards/yt-dlp-yt-dlp-light.svg" width="265" alt="yt-dlp"></picture></a></div>
 
 ## <img src="assets/icons/ai.svg" width="18" alt=""> AI & Coding Agents
 
